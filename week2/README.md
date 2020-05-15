@@ -6,7 +6,7 @@
 - Lasso rehression
 
 - Support Vector Machines (SVM)
- + Radial Basis Function (RBF) kernel SVM
+   + Radial Basis Function (RBF) kernel SVM
  
 - Multiclass classification
 
