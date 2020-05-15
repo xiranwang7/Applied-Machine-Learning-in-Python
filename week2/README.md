@@ -7,7 +7,7 @@
 
 - Support Vector Machines (SVM)
    + Radial Basis Function (RBF) kernel SVM
-   + Parameter C and gamma  [scikit-learn documentation](https://scikit-learn.org/stable/auto_examples/svm/plot_rbf_parameters.html)
+   + Parameter C and gamma (refer to  [scikit-learn documentation](https://scikit-learn.org/stable/auto_examples/svm/plot_rbf_parameters.html) )
  
 - Multiclass classification
 
