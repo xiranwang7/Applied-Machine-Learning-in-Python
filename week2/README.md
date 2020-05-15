@@ -1,13 +1,13 @@
 
 # Week 2 Outline
 
-##Ridge regression
+## Ridge regression
 
-##Lasso rehression
+## Lasso rehression
 
-##Support Vector Machines (SVM)
+## Support Vector Machines (SVM)
  + Radial Basis Function (RBF) kernel SVM
  
-##Multiclass classification
+## Multiclass classification
 
-##Cross-validation
+## Cross-validation
